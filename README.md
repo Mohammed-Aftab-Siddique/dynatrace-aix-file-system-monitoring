@@ -43,8 +43,8 @@ Metric Value:
    file_count & availability
    ```
 ## Security Considerations
-- Be aware of the sensitivity of the log data being processed. Avoid exposing sensitive information in the output files.
-- Run the script in a secure environment to prevent unauthorized access to the log files.
+- Be aware of the sensitivity of the data being processed. Avoid exposing sensitive information in the output files.
+- Run the script in a secure environment to prevent unauthorized access to the files.
 
 ## Troubleshooting
 - **Permission Denied**: Check that the script has appropriate execution permissions.
